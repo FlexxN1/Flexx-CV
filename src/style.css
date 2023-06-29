@@ -8,3 +8,64 @@ background-color: #ffffff;
 .flex-logo {
     width: 100px;
 }
+
+#content {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container-section {
+    height: 450px;
+    margin-top: 50px;
+    overflow-y: scroll;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    /* padding: 0 20px 0 70px; */
+    flex-wrap: wrap;
+}
+.item__section--1 {
+    background-color: gray;
+    width: 350px;
+    height: 200px;
+    width-space: nowrap;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: 450ms all;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    -webkit-transition: 450ms all;
+    -moz-transition: 450ms all;
+    -ms-transition: 450ms all;
+    -o-transition: 450ms all;
+    position: relative;
+}
+.item__section--details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    position: absolute;
+    text-align: center;
+    padding: 10px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.img {
+    border-radius: 15px;
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
