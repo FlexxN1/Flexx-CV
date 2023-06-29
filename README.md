@@ -1,4 +1,4 @@
-# Flexx Channel details 🎞📊
+# Flexx CV 🎞📊
 
 Flexx Channel details, es una página web, con el propósito de mostrarnos los detalles de un canal de en especifico y mostrarnos sus videos más reciente, en este caso es el canal de Flexx.
 
