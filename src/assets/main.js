@@ -1,4 +1,4 @@
-const API = "https://youtube-v31.p.rapidapi.com/search?channelId=UC3jHU-6ZCA0JWM5gimWIaBw&part=snippet%2Cid&order=date&maxResults=9";
+/* const API = "https://youtube-v31.p.rapidapi.com/search?channelId=UC3jHU-6ZCA0JWM5gimWIaBw&part=snippet%2Cid&order=date&maxResults=9";
 const content = null || document.getElementById("content");
 
 const options = {
@@ -40,3 +40,4 @@ async function fetchData(urlData){
     }
 })();
 
+ */
