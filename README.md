@@ -1,27 +1,18 @@
 # Flexx CV 📝
-Flexx Channel details, es una página web, con el propósito de mostrarnos los detalles de un canal de en especifico y mostrarnos sus videos más reciente, en este caso es el canal de Flexx.
+Flexx CV, es un sitio web con el objetivo de presentar mi currículum vitae.
 
-Recursos :
-
-- [API-Youtube](https://rapidapi.com/ytdlfree/api/youtube-v31/)
-
-## View project 🚀🙋🏻‍♂️
-## [Deploy](https://flexxn1.github.io/Flexx-Channel-details//)
+## View CV 🚀🙋🏻‍♂️
+## [Deploy](https://flexxn1.github.io/Flexx-CV/)
 
 ## Installation ⚖
-Flexx Channel details:
+Flexx CV:
 ```
-git clone https://github.com/FlexxN1/Flexx-Channel-details.git
+git clone https://github.com/FlexxN1/Flexx-CV.git
  ```
 
 Install dependencies:
 ```
 npm install
-```
-
-Local Flexx Channel details deploy:
-```
-npm run start
 ```
 
 ## License 🔐
